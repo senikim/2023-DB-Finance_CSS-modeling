@@ -1,8 +1,11 @@
 # DB-Finance_CSS-modeling
 
-> 2022.11.25. (금) - 2023.02.26. (일) 
+> 2022.11.25. (금) - 2023.02.26. (일)
+> 
 > DB 금융경제공모전 우수상
+>
 > 팀 뉴임팩트
+>
 > 강수연, 김세은
 
 ![Untitled (1)](https://github.com/senikim/DB-Finance_CSS-modeling/assets/113660954/7e764f8b-ff7c-400b-bf5c-8d70e72ceed6)
