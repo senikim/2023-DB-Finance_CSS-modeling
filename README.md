@@ -8,7 +8,7 @@ DB 금융경제공모전
 강수연, 김세은
 > 
 
-<img width="80%" src="![untitle](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1c06ea7-2b2c-4fe4-bc25-bcb364277f0f/Untitled.png)"/>
+<img width="80%" src="https://github.com/senikim/DB-Finance_CSS-modeling/issues/1#issue-1784538473"/>
 
 📁 **분석 배경과 목표**
 
